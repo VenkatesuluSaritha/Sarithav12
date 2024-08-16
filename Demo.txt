@@ -2,3 +2,4 @@ This is my first practise
 It is little bit confusing
 Git is intersting
 Topic is Git Branches
+changes in remote
